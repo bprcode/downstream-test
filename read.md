@@ -8,4 +8,5 @@ A submodule will be added, and changes will be brought down from that module.
 
 ### Commits
 
-0 - initial commit
+0 - initial commit  
+1 - commit A  
