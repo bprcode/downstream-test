@@ -12,3 +12,4 @@ A submodule will be added, and changes will be brought down from that module.
 1 - commit A  
 2 - commit B  
 3 - commit C  
+4 - commit D  
